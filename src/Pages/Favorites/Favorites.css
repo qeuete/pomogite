@@ -1,0 +1,18 @@
+.favorites-container {
+    text-align: center; 
+  }
+  
+.favorites-container h2 {
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    font-size: 24px; 
+    color: #333; 
+}
+
+.favorites-cards {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; 
+}
+  

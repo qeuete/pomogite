@@ -1,0 +1,101 @@
+.basket-form-container {
+    width: 400px; 
+    margin: 0 auto;
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px;
+  }
+  
+  .basket-form-container form {
+    margin-top: 20px;
+  }
+  
+  .basket-form-container form div {
+    margin-bottom: 10px;
+  }
+  
+  .basket-form-container input, .basket-form-container select {
+    padding: 10px;
+    width: 100%; 
+    font-size: 1rem;
+    border-radius: 5px;
+  }
+  
+  .payment-method-select {
+    margin-bottom: 20px; 
+  }
+  
+  .basket-form-container form button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color:#7c032c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; 
+  }
+  
+  .basket-form-container form button:hover {
+    background-color: #7c032c;
+  }
+  
+  .product-image-basket {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  .product-info {
+    flex-grow: 1;
+  }
+  
+  .product-info h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  
+  .product-info p {
+    margin: 0;
+  }
+  
+  .product-info p.price {
+    color: #7c032c;
+    font-weight: bold;
+  }
+  
+  .product-cards {
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  
+  .total-price {
+    text-align: center; 
+    color: #7c032c;
+    font-weight: bold;
+  }
+  
+  .delete {
+    background-color: #7c032c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .delete:hover, .description-button:hover {
+    background-color: #7c032c;
+  }
+  
+  .count {
+    color: #7c032c;
+  }
+  
+  .recaptcha{
+    margin-left: 25px;
+  }
+  
+  .buy-button{
+    margin-top: 20px;
+  }

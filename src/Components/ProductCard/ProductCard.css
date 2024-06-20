@@ -1,0 +1,128 @@
+.product-card {
+    position: relative; 
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+}
+
+.favorite-button {
+    outline: none; 
+    position: absolute;
+    top: 15px;
+    right: 15px; 
+    background-color: transparent;
+    border: none;
+    cursor: pointer; 
+    font-size: 1.5em;
+    color: #ccc; 
+}
+
+.product-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.product-price {
+    font-size: 1.2em;
+    color: #7c032c;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+.product-buttons {
+    display: flex; 
+    justify-content: center; 
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.buy-button, .description-button {
+    background-color: #7c032c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.buy-button:hover, .description-button:hover {
+    background-color: #7c032c;
+}
+
+.product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 20px;
+}
+
+
+.product-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.product-price {
+    font-size: 1.2em;
+    color: #7c032c;
+    margin: 10px 0;
+}
+
+.product-buttons {
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+    margin: 20px 0;
+}
+
+.buy-button{
+    background-color: #7c032c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.description-button{
+    height: 45px;
+    margin-top: 20px;
+}
+
+.buy-button:hover, .description-button:hover {
+    background-color:#7c032c;
+}
+
+.product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 20px;
+}
+
+.favorite-button:hover {
+    background-color: transparent; 
+}
+
+.product-image {
+    width: 100%;
+    height: 250px; 
+    object-fit: cover; 
+    border-radius: 10px;
+}

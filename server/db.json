@@ -1,0 +1,498 @@
+{
+  "media": [
+    {
+      "name": "Кроссовки PUMA Velophasis Phased",
+      "description": "Состав\nМатериал:верх - текстиль, подкладка - текстиль, подошва - резина",
+      "url": "https://static.street-beat.ru/upload/iblock/ddc/mqgzx91ycuhtfgk54vfq046anhwpazq6.JPG",
+      "price": 16999,
+      "category": "PUMA",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "11"
+    },
+    {
+      "name": "Мужские кроссовки PUMA Velophasis Always On",
+      "description": "Состав\nМатериал:верх - текстиль, подкладка - текстиль, подошва - резина",
+      "url": "https://static.street-beat.ru/upload/iblock/68e/qvew18riu1s05tk12n6bjt9npi7puq21.jpg",
+      "price": 169999,
+      "category": "PUMA",
+      "isFavorite": false,
+      "cartQuantity": 1,
+      "id": "12"
+    },
+    {
+      "name": "Женские кроссовки PUMA Suede XL",
+      "description": "Состав\nМатериал:верх - кожа, подкладка - текстиль, подошва - резина",
+      "url": "https://static.street-beat.ru/upload/iblock/948/f437lvo42rxe1jqssuhe72ynptuy5n6o.JPG",
+      "price": 12999,
+      "category": "PUMA",
+      "isFavorite": false,
+      "cartQuantity": "0",
+      "id": "13"
+    },
+    {
+      "name": "Кроссовки PUMA Velophasis Sprint",
+      "description": "Состав\nМатериал:верх - текстиль, подкладка - текстиль, подошва - резина",
+      "url": "https://static.street-beat.ru/upload/iblock/726/9cxyj607qrn9jstbum0v6u5l10we9we5.JPG",
+      "price": 16999,
+      "category": "PUMA",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "14"
+    },
+    {
+      "name": "Женские кроссовки PUMA 180 Corduroy",
+      "description": "Состав\nМатериал:верх - текстиль, подкладка - текстиль, подошва - резина",
+      "url": "https://static.street-beat.ru/upload/iblock/2c2/pb9ubtecsp26c04093fj9tnfdue8y0d0.jpg",
+      "price": 14999,
+      "category": "PUMA",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "15"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Low '77 Vintage",
+      "description": "Состав\nМатериал:верх: кожа, иск. кожа; подкл: текстиль; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/03b/ni2dqtjkxeeb4ak9m51fdwe8ukjn806p.jpg",
+      "price": 16999,
+      "category": "Nike",
+      "isFavorite": false,
+      "color": [
+        "черный",
+        "серебристый"
+      ],
+      "cartQuantity": 0,
+      "id": "21"
+    },
+    {
+      "name": "Женские кроссовки Nike Tech Hera",
+      "description": "Состав\nМатериал:верх: Текстиль/Нат.кожа/Синт.кожа; Подкладка: Текстиль; Низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/022/xefmw38ptb74snj33fo81xgn7mpeissh.jpg",
+      "price": 18999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "22"
+    },
+    {
+      "name": "Женские кроссовки Nike Dunk Low",
+      "description": "Состав\nМатериал:верх: 58% нат. кожа, 42% синтетика; Подошва: 100% резина",
+      "url": "https://static.street-beat.ru/upload/iblock/97e/biznw3hvgyxywvy3d21pj8bte6t0edvf.jpg",
+      "price": 20999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "24"
+    },
+    {
+      "name": "Женские кроссовки Nike Blazer Mid 77",
+      "description": "Состав\nМатериал:верх: кожа, иск. кожа; подкл: текстиль; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/73e/7kuwflvc5oi37kmzc6xlub9q7bc7plbm.JPG",
+      "price": 18999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "25"
+    },
+    {
+      "name": "Женские кроссовки Nike Air Force 1 '07",
+      "description": "Состав\nМатериал:верх: 100% натуральная кожа; Подкладка: 100% текстиль; Низ: 100% резина",
+      "url": "https://static.street-beat.ru/upload/iblock/6b8/3sln209vjzgkc34i024hcax541teki5j.JPG",
+      "price": 20999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "26"
+    },
+    {
+      "name": "Подростковые кроссовки Nike Air Max 270",
+      "description": "Состав\nМатериал:верх: 73% Текстиль/27% Синт.кожа, подкладка: 100% Текстиль, низ: 100% Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/784/7rjti5qrvrlanwep5qzkz9l4lmpgjg87.jpg",
+      "price": 16999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "27"
+    },
+    {
+      "name": "Женские кроссовки Nike Air Force 1 Shadow",
+      "description": "Состав\nМатериал:верх: 65% кожа, 35% иск.кожа, подкладка: 100% текстиль, низ: 100% резина",
+      "url": "https://static.street-beat.ru/upload/iblock/959/wiczahmtw5kpfxw2st87go08p6vjf0wb.jpg",
+      "price": 21999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "28"
+    },
+    {
+      "name": "Мужские кроссовки Nike Air Flight 89",
+      "description": "Состав\nМатериал:верх: 44% нат. кожа, 51% синтетика, 5% текстиль; Подошва: 100% резина",
+      "url": "https://static.street-beat.ru/upload/iblock/597/7zqgjbz2szf6i4v2rvcwfn020l0tpc1i.jpg",
+      "price": 22499,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "29"
+    },
+    {
+      "name": "Мужские кроссовки Nike Air Max 90",
+      "description": "Состав\nМатериал:верх: текстиль, кожа, иск. кожа; подкл: текстиль; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/ce1/2fwewyh3u35lnzv3259u8kj6sgg7wyo0.JPG",
+      "price": 23999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "210"
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor As Core (классика)",
+      "description": "Состав\nМатериал: текстиль  100%; подошва резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/2fc/j6gwnhj3ik10fitxpy7cc93ysk1rgvrj.jpg",
+      "price": 8899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "31"
+    },
+    {
+      "name": "Кеды Converse Chuck 70",
+      "description": "Состав\nМатериал: верх: текстиль; низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/2a6/gv6dzjvt9otnamcxn3379wo6imb7r8xh.jpg",
+      "price": 14199,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "32"
+    },
+    {
+      "name": "Кеды Converse Chuck 70 (классика)",
+      "description": "Состав\nМатериал: верх: текстиль; низ: резина; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/98e/98e4b1d930035f990e1e20bb1ca9848f.JPG",
+      "price": 13499,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "33"
+    },
+    {
+      "name": "Женские кеды Converse Chuck Taylor All Star Lift Hi",
+      "description": "Состав\nМатериал: 100% ХЛОПОК; 100% ПОЛИЭСТЕР; 100% РЕЗИНА",
+      "url": "https://static.street-beat.ru/upload/iblock/bf7/vxvhqp91j5si2l42vito3akg2274l3qo.jpg",
+      "price": 14199,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "34"
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor All Star Core (классика)",
+      "description": "Состав\nМатериал: верх: текстиль; подкладка: текстиль; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/e6f/1a4iegve64n16bc9j05yirucj1btioi0.jpeg",
+      "price": 9899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "35 "
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor All Star Core",
+      "description": "Состав\nМатериал: верх: текстиль; подкладка: текстиль; подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/651/651ef4ebd93d217e163e07d866310be1.jpg",
+      "price": 9899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "36 "
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor All Star Core (классика)",
+      "description": "Состав\nМатериал: текстиль 100%; подошва резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/618/nplcflf10m89r923p6i8g050lzz5iim2.jpg",
+      "price": 8899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "37"
+    },
+    {
+      "name": "Женские кеды Converse Chuck Taylor All Star Move",
+      "description": "Состав\nМатериал: верх: канвас; подошва: резина; материал: 100% ХЛОПОК",
+      "url": "https://static.street-beat.ru/upload/iblock/a04/nioehantsf148qt8mfzilc0mvfw6521a.jpg",
+      "price": 13499,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 1,
+      "id": "38"
+    },
+    {
+      "name": "Женские кеды Converse Run Star Motion",
+      "description": "Состав\nМатериал: верх: хлопок; подкладка: текстиль; подошва: резина; материал: 100% ХЛОПОК",
+      "url": "https://static.street-beat.ru/upload/iblock/039/g30qv4tq9v9428gxbsy4wj4fpiqz90k7.jpg",
+      "price": 17899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "39"
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor As Core Hi Tram",
+      "description": "Состав\nМатериал: верх: текстиль; подкладка: текстиль; подошва: резина; материал: текстиль 100%; подошва резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/a5a/h54v0bo90fm954eoa0r358rngm90mv1n.jpg",
+      "price": 9899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "310"
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor As Core (класска)",
+      "description": "Состав\nМатериал: текстиль 100%; подошва резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/b63/lpioy19x606sptuvw8ufc5qli2qfy5ut.jpg",
+      "price": 8899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "311"
+    },
+    {
+      "name": "Женские кеды Converse Run Star Hike",
+      "description": "Состав\nМатериал: 100% ХЛОПОК; верх: текстиль",
+      "url": "https://static.street-beat.ru/upload/iblock/5f7/1l7dm4epikjiahxfiadfypzqshi0qa8n.jpg",
+      "price": 16399,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "312"
+    },
+    {
+      "name": "Женские кеды Converse Chuck Taylor All Star Lift",
+      "description": "Состав\nМатериал: 100% ХЛОПОК; верх: хлопок",
+      "url": "https://static.street-beat.ru/upload/iblock/ce8/w1by68obkem0zelgt9huxzmeai07ubpr.jpg",
+      "price": 13499,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "313"
+    },
+    {
+      "name": "Женские кеды Converse Chuck Taylor All Star Platform High Top",
+      "description": "Состав\nМатериал: 100% ХЛОПОК; верх: хлопок",
+      "url": "https://static.street-beat.ru/upload/iblock/258/0ekq3osm20yxcacrcfluhcmiq30aqum4.jpg",
+      "price": 14199,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "314"
+    },
+    {
+      "name": "Кеды Converse Chuck Taylor As Core",
+      "description": "Состав\nМатериал: текстиль  100%; подошва резина 100%",
+      "url": "https://static.street-beat.ru/upload/resize_cache/iblock/618/500_500_1/nplcflf10m89r923p6i8g050lzz5iim2.jpg",
+      "price": 9899,
+      "category": "Converse",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "315"
+    },
+    {
+      "name": "Кеды Vans Old Skool",
+      "description": "Состав\nМатериал: верх: 56,2% кожа (бычья) 43,8% текстиль;Внутри100% Хлопок;Подошва:100% Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/5b0/7j9izwpqnuci22wgeqnjf8qs3c1ya7k9.JPG",
+      "price": 8799,
+      "category": "Vans",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "61"
+    },
+    {
+      "name": "Женские кроссовки Nike Gamma Force",
+      "description": "Состав\nМатериал: верх: Нат.кожа/Синт.кожа; Подкладка: текстиль; Низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/0de/2gxztwmlb2ztkvvjwwnzyxepyhl2k5z8.jpg",
+      "price": 17999,
+      "category": "Nike",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "a078"
+    },
+    {
+      "id": "6d3e",
+      "name": "Мужские кроссовки adidas Supernova Cushion 7",
+      "description": "Состав\nМатериал: верх: Текстиль-60%,иск. кожа-40%, подкладка: Текстиль-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/d91/3xi3mj4hn7o1d5ifgxzv41w3fkn9t06q.JPG",
+      "price": 19499,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "239d",
+      "name": "Мужские кроссовки adidas Ozmillen",
+      "description": "Состав\nМатериал: верх: Текстиль-60%,иск. кожа-40%, подкладка: Текстиль-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/fb4/9ugunofn70snmh2xqco40o1dh1zocem6.JPG",
+      "price": 20599,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "7563",
+      "name": "Женские кроссовки adidas Gazelle Bold",
+      "description": "Состав\nМатериал: верх: Текстиль-60%, иск.кожа-40%, подкладка: иск.кожа-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/5c0/nwef0t0hqg1btqgt7jd6jr1bz4d2g5e9.JPG",
+      "price": 19499,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "f0ae",
+      "name": "Женские кроссовки adidas Forum XLG",
+      "description": "Состав\nМатериал: верх: Текстиль-60%, иск.кожа-40%, подкладка: иск.кожа-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/a0f/slbsru8r9vx06nzo0u71y2ypmpbim5rj.JPG",
+      "price": 2059,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "2b9a",
+      "name": "Женские кроссовки adidas Forum Low Classic",
+      "description": "Состав\nМатериал: верх: Текстиль-60%, иск.кожа-40%, подкладка: Текстиль-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/365/xhahntf9uwby13r8q77ir0kaqzbzbbom.JPG",
+      "price": 19499,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": 0
+    },
+    {
+      "id": "9cc0",
+      "name": "Мужские кроссовки adidas Gazelle",
+      "description": "Состав\nМатериал: верх: 60% Кожа, 40% Синтетика; Внутри:текстиль 100%;Подошва:Резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/90f/bdntk3fy7l52g2cev2a0kkn6iix6froj.jpg",
+      "price": 16499,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "ad5c",
+      "name": "Мужские кроссовки adidas Campus 00s",
+      "description": "Состав\nМатериал: верх: Кожа-100%, подкладка: Текстиль-100%, низ: Резина",
+      "url": "https://static.street-beat.ru/upload/iblock/978/c041sqoh46iaysarfa954rx2zg7hwdwy.JPG",
+      "price": 19499,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "334b",
+      "name": "Кроссовки adidas Ozweego",
+      "description": "Состав\nМатериал: верх: 60% Кожа, 40% Синтетика; Внутри: текстиль 100%; Подошва: Резина 100%",
+      "url": "https://static.street-beat.ru/upload/iblock/a61/q3ugsz7wb097gfonpd6wg6l1nkhgtm5y.jpg",
+      "price": 22599,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "a867",
+      "name": "Кроссовки adidas Stan Smith",
+      "description": "Состав\nМатериал: 100% Синтетика",
+      "url": "https://static.street-beat.ru/upload/iblock/627/6r4zk60r8hw91lf0h2f7nd4dlrx4529c.jpg",
+      "price": 14999,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": 0
+    },
+    {
+      "id": "fda6",
+      "name": "Женские кроссовки adidas Forum Bold",
+      "description": "Состав\nМатериал: 100% Кожа",
+      "url": "https://static.street-beat.ru/upload/iblock/567/4685uu498vzfg6cq0kx4y3855klbdaim.JPG",
+      "price": 20599,
+      "category": "adidas",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "d54a",
+      "name": "Женские кроссовки Reebok Classic Leather SP Extra",
+      "description": "Состав\nМатериал: верх: Кожа, подкладка: текстиль, подошва: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/379/t18m4zk31si20i9qdh1nykgvt646aq5x.jpg",
+      "price": 13999,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "e23d",
+      "name": "Мужские кроссовки Reebok BB 4000 I",
+      "description": "Состав\nМатериал: верх: кожа/полиуретан, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/74f/hm9yjdkb21069pyqymqivzlz9xs31sga.jpg",
+      "price": 13999,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "a482",
+      "name": "Мужские кроссовки Reebok Club C 85",
+      "description": "Состав\nМатериал: верх: кожа, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/2f3/b2lkesick23wwybs2xajhzqe35zefozr.jpg",
+      "price": 13499,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "5f96",
+      "name": "Женские кроссовки Reebok Club C Extra",
+      "description": "Состав\nМатериал: верх: кожа, синт.кожа, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/df6/jkt0exehse4njxselaaagmts5n0rqgsh.jpg",
+      "price": 13999,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "cc10",
+      "name": "Женские кроссовки Reebok Club C REVENGE",
+      "description": "Состав\nМатериал: верх: кожа, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/940/vnfgtdbycii5m6p3texp0rhoozzjf193.jpg",
+      "price": 13499,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "99ce",
+      "name": "Подростковые кроссовки Reebok Club C Revenge",
+      "description": "Состав\nМатериал: верх: кожа, синт.кожа, текстиль, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/5ac/mnnebw94nyypwnzye5j0dd69157tafzo.JPG",
+      "price": 7399,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "4e92",
+      "name": "Мужские кроссовки Reebok Club C Revenge",
+      "description": "Состав\nМатериал: верх: кожа, текстиль, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/1b5/kdqzf3lq1a05du0gtagmp9am2vas7v7s.JPG",
+      "price": 11999,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    },
+    {
+      "id": "786e",
+      "name": "Подростковые кроссовки Reebok Zig Dynamica 2.0",
+      "description": "Состав\nМатериал: верх: синт.кожа, текстиль, кожа, подкладка: текстиль, низ: резина",
+      "url": "https://static.street-beat.ru/upload/iblock/e9b/a7bgny1q29usvy1zy0z2zphtb3frg7we.jpg",
+      "price": 7999,
+      "category": "Reebok",
+      "isFavorite": false,
+      "cartQuantity": "0"
+    }
+  ]
+}
